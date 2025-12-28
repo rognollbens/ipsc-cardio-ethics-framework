@@ -1,6 +1,6 @@
 # Ethical Framework for Clinical Trials Using Autologous iPSC-Derived Cardiomyocytes
 
-*Version 1.0 Draft*
+*Version 1.0 Draft (Revised)*
 
 This document outlines a proposed ethical framework for the development and clinical application of autologous induced pluripotent stem cell (iPSC)-derived cardiomyocytes for cardiac repair. It is intended to evolve through community discussion and iteration.
 
@@ -19,6 +19,7 @@ This document outlines a proposed ethical framework for the development and clin
   - The risk of teratoma formation from residual pluripotent cells.
   - The possibility of incomplete engraftment or limited functional improvement.
 - **Therapeutic Misconception:** Protocols must include measures to counteract unrealistic expectations, such as structured educational sessions and independent patient advocates.
+- **Consent Material Review:** Consent forms and patient‑education materials should be reviewed by an independent panel that includes patient advocates and laypersons to ensure comprehensibility. Where appropriate, multimedia tools (videos, interactive applications) should be used to enhance understanding, especially for patients with lower health literacy.
 - **Dynamic Consent:** Patients should be re‑consented if significant new safety or efficacy data emerge during the trial.
 
 ## 2. Data Privacy and Genetic Information
@@ -66,7 +67,8 @@ This document outlines a proposed ethical framework for the development and clin
 
 ### 4.2 Specific Requirements
 - **Access Plans:** Sponsors of clinical trials must submit a plan detailing how they will provide the therapy to uninsured or underinsured patients if it receives regulatory approval.
-- **Global Considerations:** Where feasible, manufacturing and delivery models should be designed to be adaptable to low‑resource settings.
+- **Measurable Benchmarks:** Access plans should include concrete, measurable targets, such as a minimum percentage of trial participants recruited from underserved communities, a dedicated budget for patient‑navigation services, and explicit steps to address language and cultural barriers.
+- **Global Considerations:** Where feasible, manufacturing and delivery models should be designed to be adaptable to low‑resource settings, leveraging existing frameworks for technology transfer and capacity building (e.g., WHO guidelines).
 - **Post‑Trial Access:** Patients who benefit from the therapy during a trial should have a clear pathway to continue receiving it after the trial ends, at no or reduced cost.
 
 ---
